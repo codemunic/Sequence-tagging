@@ -29,3 +29,4 @@ For the Keras implementation (without ELMO) please refer to this [link](https://
     b.	Evaluates on test set. Also accepts other arguments to predict on custom string
 
 Source: https://github.com/yongyuwen/PyTorch-Elmo-BiLSTMCRF/
+Dataset: https://www.kaggle.com/alaakhaled/conll003-englishversion
